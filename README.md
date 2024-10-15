@@ -1,6 +1,6 @@
 ![1](https://github.com/user-attachments/assets/0860d4f1-990d-45ba-8325-71243bf59b50)
 
-### 👋 Hi! I'm am iOS Engineer and here's some of the projects I've been working on.
+### 👋 Hi! I'm am iOS Engineer/UI/UX Designer and here's some of the projects I've been working on.
 
 # [General Provision](https://apps.apple.com/in/app/general-provision/id6444879814)
 
